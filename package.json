@@ -1,0 +1,17 @@
+{
+  "name": "bestfetch",
+  "version": "1.0.0",
+  "description": "The coolest fetch ever",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "@nexssp/os": "^2.0.31",
+    "nodemon": "^2.0.22",
+    "os": "^0.1.2"
+  }
+}
